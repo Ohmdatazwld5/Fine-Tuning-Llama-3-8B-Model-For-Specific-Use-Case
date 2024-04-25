@@ -12,7 +12,7 @@ Original file is located at
 !pip install huggingface_hub ipython "unsloth[colab] @ git+https://github.com/unslothai/unsloth.git"
 
 import os
-os.environ['HF_TOKEN'] = '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'
+os.environ['HF_TOKEN'] = 'XXXXX'
 
 # 1. Importing and configurations
 import os

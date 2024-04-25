@@ -34,24 +34,18 @@ pip install -r requirements.txt
 
 # Running the code
 
-# 1. Clone this repository:
-
-Bash
-git clone https://github.com/your-username/fine-tuning-llama3-climate-science.git
-cd fine-tuning-llama3-climate-science
-
-# 2. Install dependencies:
+# 1. Install dependencies:
 
 Bash
 pip install -r requirements.txt
 
 
-# 3. Open the Jupyter Notebook environment in your preferred way (e.g., using a Jupyter Notebook server or Colab).
+# 2. Open the Jupyter Notebook environment in your preferred way (e.g., using a Jupyter Notebook server or Colab).
  - Open the Fine_Tuning_LLama3_for_Climate_Science_Questions.ipynb file.
  - Execute the code cells sequentially.
  - Explanation of the Code:
 
-# 4. Imports and Configurations:
+# 3. Imports and Configurations:
 Imports necessary libraries like FastLanguageModel from unsloth, torch, SFTTrainer from trl, and TrainingArguments from transformers.
 Sets max_seq_length (maximum sequence length for inputs) and loads the climate_fever dataset (split: "test").
 # Load Llama-3 8b Model:

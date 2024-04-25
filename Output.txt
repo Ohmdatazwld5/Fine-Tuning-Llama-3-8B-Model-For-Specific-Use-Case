@@ -1,0 +1,13 @@
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Before training
+
+<human>: What is the impact of deforestation on global warming?
+<bot>:  Deforestation is a major contributor to global warming. Trees absorb carbon dioxide and release oxygen. When trees are cut down, the carbon dioxide is released into the atmosphere, where it contributes to global warming. Deforestation also reduces the amount of carbon dioxide that is absorbed by plants, which further contributes to global warming. In addition, deforestation reduces the amount of vegetation that can absorb and store carbon dioxide, which further contributes to global warming. Deforestation also reduces the amount of vegetation that can absorb and
+
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+
+ ######## 
+After training
+
+<human>: What is the impact of deforestation on global warming?
+<bot>:  Deforestation is a major cause of global warming. Trees absorb carbon dioxide and release oxygen. When trees are cut down, the carbon dioxide is released into the atmosphere, where it contributes to global warming. Deforestation also causes the loss of a natural carbon sink, which helps to regulate the amount of carbon dioxide in the atmosphere. When trees are cut down, the carbon dioxide is released into the atmosphere, where it contributes to global warming. Deforestation also causes the loss of a natural carbon sink,
